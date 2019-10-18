@@ -12,7 +12,7 @@
 //.. Copyright:(c) 1995-2000 Interactive Objects Inc.  									..
 //..	 All rights reserved. This code may not be redistributed in source or linkable  ..
 //.. 	 object form without the express written consent of Interactive Objects.        ..
-//.. Contact Information: www.iobjects.com												..
+//.. Contact Information: Removed											..
 //.. Assets of Interactive Objects acquired by Mark Phillips							..
 //........................................................................................
 //........................................................................................
