@@ -1,3 +1,5 @@
+/* (c) 1998-2018 Mark Phillips */
+
 #ifndef __DSPTYPES_H
 #define __DSPTYPES_H
 

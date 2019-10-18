@@ -1,4 +1,5 @@
 /*
+ (c) 1998-2018 Mark Phillips Copyright 
  DCT insipired by Jeff Tsay's DCT from the maplay package
  this is an optimized version with manual unroll.
 
@@ -6,9 +7,6 @@
  [1] S. Winograd: "On Computing the Discrete Fourier Transform",
      Mathematics of Computation, Volume 32, Number 141, January 1978,
      Pages 175-199
-
-//.. (c) 1998-2018 Mark Phillips Copyright 
-
 */
 
 #include "mp3.h"

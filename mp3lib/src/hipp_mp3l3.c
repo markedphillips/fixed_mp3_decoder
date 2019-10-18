@@ -1,9 +1,10 @@
 /* 
+ * (c) 1998-2018 Mark Phillips 
  * Mpeg Layer-3 audio decoder 
  * --------------------------
  * All rights reserved. See also 'README'
  */ 
-//.. (c) 1998-2018 Mark Phillips Copyright 
+
 
 #include <stdlib.h>
 #include "hipp_dsp.h"
